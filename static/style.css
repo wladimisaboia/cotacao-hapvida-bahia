@@ -50,7 +50,7 @@ body {
 
 .form-group input[type="submit"],
 .response-container button {
-  background-color: #0080ff;
+  background-color: #ff8000; /* Cor laranja */
   color: #fff;
   font-weight: bold;
   cursor: pointer;
@@ -59,7 +59,7 @@ body {
 
 .form-group input[type="submit"]:hover,
 .response-container button:hover {
-  background-color: #0066cc;
+  background-color: #cc6600; /* Cor laranja mais escura */
 }
 
 .response-container {
@@ -77,14 +77,14 @@ body {
   font-weight: bold;
   margin-top: 10px;
   font-size: 20px;
-  color: #0080ff;
+  color: #ff8000; /* Cor laranja */
 }
 
 .response-container .valor-desconto {
   font-weight: bold;
   margin-top: 10px;
   font-size: 20px;
-  color: #0080ff;
+  color: #ff8000; /* Cor laranja */
 }
 
 .response-container form {
@@ -154,16 +154,16 @@ body {
   margin-bottom: 20px;
 }
 .container {
-      position: relative;
-    }
+  position: relative;
+}
 .header {
-      background-color: blue;
-      color: white;
-      padding: 10px;
-      text-align: center;
-    }
+  background-color: #ff8000; /* Cor laranja */
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
 .header img {
-      max-width: 100%;
-      max-height: 60px;
-      margin-top: 10px;
-    }
+  max-width: 100%;
+  max-height: 60px;
+  margin-top: 10px;
+}
